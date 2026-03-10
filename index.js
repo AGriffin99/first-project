@@ -7,5 +7,8 @@
 \pard\pardeftab720\partightenfactor0
 
 \f0\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 alert("Git it.")\
+\outl0\strokewidth0 \strokec2 alert("Git it.");\
+function gitIt() \{\cb1 \
+\cb3 \'a0 \'a0 console.log("Git it.");\cb1 \
+\cb3 \}\
 }
